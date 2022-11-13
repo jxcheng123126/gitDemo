@@ -15,4 +15,4 @@ hello jxc git
 hello jxc git 
 hello jxc git 
 hello jxc git
-hot fix 1master
+hot fix 1 hot-fix test
